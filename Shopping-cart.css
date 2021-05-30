@@ -47,9 +47,10 @@
   font-size: 1.5rem;
 }
 
-.u-section-1 .u-table-cell-6 {
+.u-section-1 .u-table-cell {
   font-weight: 700;
   font-size: 1.5rem;
+  padding-left:20px;
 }
 
 .u-block-df82-29 {
@@ -86,7 +87,7 @@
 
 .u-section-1 .u-text-3 {
   font-size: 1.5rem;
-  margin: -45px 299px 0 783px;
+  margin: -45px 185px 0 783px;
 }
 
 .u-section-1 .u-text-4 {
@@ -119,7 +120,7 @@
 
 .u-section-1 .u-text-6 {
   font-size: 1.5rem;
-  margin: -47px 299px 0 783px;
+  margin: -45px 185px 0 783px;
 }
 
 .u-section-1 .u-text-7 {
